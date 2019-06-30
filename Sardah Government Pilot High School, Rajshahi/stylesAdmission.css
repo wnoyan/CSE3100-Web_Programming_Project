@@ -1,0 +1,37 @@
+.admission {
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.admission h2 {
+    text-align: center;
+    color: #0276f7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.acolumn {
+    float: left;
+    width: 32.33%;
+    padding: 10px;
+    height: auto;
+    /* background-color: azure; */
+    background-color: #7ed0d0;
+    margin-left: 3px;
+    font-size: large;
+    /* color: white; */
+    /* text-align: left; */
+}
+
+/* Clear floats after the columns */
+.arow:after {
+  content: "";
+  display: table;
+  clear: both;
+}

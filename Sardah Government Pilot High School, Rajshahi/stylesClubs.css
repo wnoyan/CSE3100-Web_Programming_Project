@@ -1,0 +1,21 @@
+.clubs {
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.clubs h3 {
+    color: #0276f7;
+    text-align: center;
+}
+
+.clubs ul {
+    background: #ffffff;
+}
+
+.clubs ul li {
+  background: #cce5ff;
+  margin: 5px;
+}
