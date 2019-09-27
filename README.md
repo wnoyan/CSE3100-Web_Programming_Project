@@ -1,2 +1,2 @@
-# pacademic
-some of my academic resources
+# academic
+CSE3100: Web Programming Laboratory
